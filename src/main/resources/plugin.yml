@@ -1,0 +1,5 @@
+name: StaffChat
+main: me.intelligence.staffchat.StaffChat
+version: 1.0
+author: Intelligence
+depend: [IntelAPI]
